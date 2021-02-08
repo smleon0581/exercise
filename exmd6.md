@@ -1,0 +1,1 @@
+This is a new file named ex6md This will be deleted soon.
